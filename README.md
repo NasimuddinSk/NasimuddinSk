@@ -1,17 +1,17 @@
 <h1 align="center">Hello 🤝 I'm Nasimuddin Sk (ROHAN)</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Flutter developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/nasimuddinsk_" target="blank"><img src="https://img.shields.io/twitter/follow/nasimuddinsk_?logo=twitter&style=for-the-badge" alt="nasimuddinsk_" /></a> </p>
 
-- 🔭 I’m currently working on **MERN/React-Native**
+- 🔭 I’m currently working on **Flutter/Backend**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Flutter, Node.Js, Express.Js For Backend**
 
 - 🤝 I’m looking for help with **Open-source projects**
 
-- 💬 Ask me about **MERN/ Mongodb, Express, React or Node**
+- 💬 Ask me about *Flutter / Mongodb, Express or Node**
 
-- 📫 How to reach me **snasim251@gmail.com**
+- 📫 How to reach me **nasimuddinsk4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
