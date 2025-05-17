@@ -59,4 +59,4 @@ Feel free to reach out **nasimuddinsk4@gmail.com** or follow me on GitHub to see
 
 Thanks for visiting! 🚀
 
-![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=NasimuddinSk.NasimuddinSk&left_text=Profile)
+![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=NasimuddinSk.NasimuddinSk&left_text=Profile Views)
